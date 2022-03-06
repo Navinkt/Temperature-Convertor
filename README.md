@@ -1,3 +1,3 @@
 # Temperature-Convertor
-Used HTML
+Used HTML & some functions.
 Open this link :https://navinkt.github.io/Temperature-Convertor/
